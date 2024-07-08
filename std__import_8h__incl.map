@@ -1,0 +1,15 @@
+<map id="asyncpp/detail/std_import.h" name="asyncpp/detail/std_import.h">
+<area shape="rect" id="Node000001" title="Provides a consistent import interface for coroutine, experimental/coroutine or a best effort fallbac..." alt="" coords="220,5,361,45"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,93,75,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,48,89,92,87,87,230,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="99,93,170,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="254,48,171,89,169,85,252,43"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="194,93,281,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="280,47,255,83,251,80,276,44"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="305,93,383,119"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="306,44,330,80,326,83,301,47"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="407,93,457,119"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="326,43,400,84,398,89,323,48"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="481,93,573,119"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="348,43,480,87,479,92,346,48"/>
+</map>

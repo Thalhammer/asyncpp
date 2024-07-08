@@ -1,0 +1,9 @@
+<map id="asyncpp::dispatcher" name="asyncpp::dispatcher">
+<area shape="rect" id="Node000001" title="Basic dispatcher interface class." alt="" coords="237,5,389,31"/>
+<area shape="rect" id="Node000002" href="$classasyncpp_1_1simple__dispatcher.html" title="A very basic dispatcher that runs in a single thread until manually stopped." alt="" coords="5,79,208,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="268,38,141,81,139,76,266,33"/>
+<area shape="rect" id="Node000003" href="$classasyncpp_1_1thread__pool.html" title="A basic thread pool implementation for usage as a dispatcher." alt="" coords="233,79,394,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="316,44,316,79,311,79,311,44"/>
+<area shape="rect" id="Node000004" href="$classasyncpp_1_1timer.html" title="A dispatcher that provides a way to schedule coroutines based on time." alt="" coords="418,79,537,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="353,34,452,76,449,81,351,39"/>
+</map>
